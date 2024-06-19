@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_banner": "ca-app-pub-7615880214648928/2572221542",
+      "main_ads_intertitial":"ca-app-pub-7615880214648928/1339484209",
+      "main_ads_rewards":"ca-app-pub-7615880214648928/4289328598",
       "main_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 10,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -195,7 +195,7 @@
       "name_category": "BATMAN",
       "title":"BATMAN 10",
       "image":"https://i.pinimg.com/564x/30/65/cd/3065cd99f2c81bea94130f2274f11f3c.jpg",
-      "lock":true
+      "lock":false
     },
 	{
       "id":11,
@@ -258,35 +258,35 @@
       "name_category": "CAPTAIN AMERICA",
       "title":"CAPTAIN AMERICA 19",
       "image":"https://i.pinimg.com/736x/9d/73/7c/9d737c5762cc96c46fc89978749a08c3.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":20,
       "name_category": "CAPTAIN AMERICA",
       "title":"CAPTAIN AMERICA 20",
       "image":"https://i.pinimg.com/564x/57/7e/d6/577ed68b6acab32439fec4de43d1d6b6.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":21,
       "name_category": "CAPTAIN AMERICA",
       "title":"CAPTAIN AMERICA 21",
       "image":"https://i.pinimg.com/564x/9c/f2/fc/9cf2fce820c6b17f6d02727ed99be401.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":22,
       "name_category": "CAPTAIN AMERICA",
       "title":"CAPTAIN AMERICA 22",
       "image":"https://i.pinimg.com/564x/84/44/b8/8444b8bc81af64f740dd61d03d54e1a6.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":23,
       "name_category": "CAPTAIN AMERICA",
       "title":"CAPTAIN AMERICA 23",
       "image":"https://i.pinimg.com/564x/16/19/e8/1619e8af26fdd35c5298ac4057fc0e69.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":24,
@@ -321,14 +321,14 @@
       "name_category": "DEADPOOL",
       "title":"DEADPOOL 28",
       "image":"https://i.pinimg.com/564x/6b/af/8e/6baf8e1b0dc9ee15c968621b66adba8d.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":29,
       "name_category": "DEADPOOL",
       "title":"DEADPOOL 29",
       "image":"https://i.pinimg.com/736x/d8/db/75/d8db7566df9a39221ad1aca9100d339f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":30,
@@ -356,35 +356,35 @@
       "name_category": "HULK",
       "title":"HULK 33",
       "image":"https://i.pinimg.com/736x/6b/f6/44/6bf6443dddc09bd44e4a18f2d71eb26f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":34,
       "name_category": "HULK",
       "title":"HULK 34",
       "image":"https://i.pinimg.com/736x/3a/f3/d0/3af3d0ca83246241ef4397e20cd9a1e7.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":35,
       "name_category": "HULK",
       "title":"HULK 35",
       "image":"https://i.pinimg.com/564x/c5/77/df/c577df83741064cd3af3ed7bebec1ff6.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":36,
       "name_category": "HULK",
       "title":"HULK 36",
       "image":"https://i.pinimg.com/564x/9a/fa/ce/9aface6c87d9a0c479578b41537d4da5.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":37,
       "name_category": "HULK",
       "title":"HULK 37",
       "image":"https://i.pinimg.com/736x/69/c8/59/69c859d1500208be259e7936c0df07e5.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":38,
@@ -433,91 +433,91 @@
       "name_category": "IRONMAN",
       "title":"IRONMAN 44",
       "image":"https://i.pinimg.com/564x/b5/4e/f3/b54ef37789481b6385bd1d8d09687a72.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":45,
       "name_category": "IRONMAN",
       "title":"IRONMAN 45",
       "image":"https://i.pinimg.com/736x/aa/e2/a6/aae2a69fa48db3686da2756ab00e2eec.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":46,
       "name_category": "IRONMAN",
       "title":"IRONMAN 46",
       "image":"https://i.pinimg.com/564x/bd/ec/d8/bdecd83ebbd830907d3a052f352caeee.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":47,
       "name_category": "IRONMAN",
       "title":"IRONMAN 47",
       "image":"https://i.pinimg.com/564x/99/9c/1c/999c1c5015232dbb897a92585f7e4218.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":48,
       "name_category": "IRONMAN",
       "title":"IRONMAN 48",
       "image":"https://i.pinimg.com/564x/00/49/16/004916f5c3c995a8d0f8f537c74ad443.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":49,
       "name_category": "IRONMAN",
       "title":"IRONMAN 49",
       "image":"https://i.pinimg.com/564x/0a/e4/a1/0ae4a13e1dfb58daf031878a2b985db3.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":50,
       "name_category": "IRONMAN",
       "title":"IRONMAN 50",
       "image":"https://i.pinimg.com/736x/3b/7b/b2/3b7bb2440023d1ca4afefe74d2ce9a60.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":51,
       "name_category": "IRONMAN",
       "title":"IRONMAN 51",
       "image":"https://i.pinimg.com/564x/40/b3/8d/40b38da12d5e14d2df079b819f685e97.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":52,
       "name_category": "IRONMAN",
       "title":"IRONMAN 52",
       "image":"https://i.pinimg.com/564x/a7/86/eb/a786ebd2d1c65d7878355c884c9ed68c.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":53,
       "name_category": "IRONMAN",
       "title":"IRONMAN 53",
       "image":"https://i.pinimg.com/564x/a9/f7/4d/a9f74d8c8e8d0a68103f8550b774bb20.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":54,
       "name_category": "IRONMAN",
       "title":"IRONMAN 54",
       "image":"https://i.pinimg.com/564x/cf/6d/d2/cf6dd26af68709a7ddf21e6c70011013.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":55,
       "name_category": "IRONMAN",
       "title":"IRONMAN 55",
       "image":"https://i.pinimg.com/564x/70/f0/b7/70f0b77edfb687f56336abf8cbf254c1.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":56,
       "name_category": "IRONMAN",
       "title":"IRONMAN 56",
       "image":"https://i.pinimg.com/564x/57/ee/73/57ee7349397965bc5a776015d89e35cc.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":57,
@@ -594,42 +594,42 @@
       "name_category": "JOKER",
       "title":"JOKER 67",
       "image":"https://i.pinimg.com/564x/34/7a/25/347a2504bac715187ce5d49e940fcb93.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":68,
       "name_category": "JOKER",
       "title":"JOKER 68",
       "image":"https://i.pinimg.com/564x/2b/e6/64/2be6649d9f3eaa09e01fbf360242011b.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":69,
       "name_category": "JOKER",
       "title":"JOKER 69",
       "image":"https://i.pinimg.com/564x/64/08/89/640889bb70c8c29ceaca1282b0c64fd8.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":70,
       "name_category": "JOKER",
       "title":"JOKER 70",
       "image":"https://i.pinimg.com/564x/7b/b9/af/7bb9af87c7e301d10be48bd977886cb6.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":71,
       "name_category": "JOKER",
       "title":"JOKER 71",
       "image":"https://i.pinimg.com/564x/b6/42/32/b642322b31515218deb844f10ec248c8.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":72,
       "name_category": "JOKER",
       "title":"JOKER 72",
       "image":"https://i.pinimg.com/564x/ce/94/2a/ce942ae4d182daae8549a17ab86bb8d2.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":73,
@@ -671,105 +671,105 @@
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 78",
       "image":"https://i.pinimg.com/736x/68/4e/5e/684e5e77814f6ec4f64a7d2073f253dd.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":79,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 79",
       "image":"https://i.pinimg.com/736x/a5/34/59/a53459088e6a9f55313b7650f1d4b0ab.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":80,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 80",
       "image":"https://i.pinimg.com/564x/e2/35/d0/e235d0a587d6663e4c1d89c82bd057b9.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":81,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 81",
       "image":"https://i.pinimg.com/564x/b4/bf/03/b4bf03fe40da0fecfc019abc3a387d04.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":82,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 82",
       "image":"https://i.pinimg.com/564x/98/c4/18/98c418dd7b3a2c2431b68cc938c7e046.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":83,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 83",
       "image":"https://i.pinimg.com/564x/41/53/ca/4153caac5eacd5b2fa3868e897758505.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":84,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 84",
       "image":"https://i.pinimg.com/564x/71/c3/3a/71c33a6f20340b0d4b330ccff4f8fb87.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":85,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 85",
       "image":"https://i.pinimg.com/564x/0e/d3/c1/0ed3c10179dbaacbd04c88a5e143e632.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":86,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 86",
       "image":"https://i.pinimg.com/736x/07/96/65/0796659cbf0923d32f3882f61dab2581.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":87,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 87",
       "image":"https://i.pinimg.com/564x/45/68/70/45687084805de6969db6ca20655b13e7.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":88,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 88",
       "image":"https://i.pinimg.com/564x/a4/62/75/a46275461b5780f92f6ed58cd971eb13.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":89,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 89",
       "image":"https://i.pinimg.com/564x/f8/c2/9f/f8c29fb105bb1a41d32add763b01ba02.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":90,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 90",
       "image":"https://i.pinimg.com/564x/5c/70/80/5c7080cd69ff424b0a18d7b55e489bb3.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":91,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 91",
       "image":"https://i.pinimg.com/564x/41/d2/9e/41d29ee44adf9c6cde211ae76e4b55ed.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":92,
       "name_category": "SPIDERMAN",
       "title":"SPIDERMAN 92",
       "image":"https://i.pinimg.com/564x/da/cc/fb/daccfb69407a8ed09f9eb945cb0d86f4.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":93,
@@ -881,49 +881,49 @@
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 108",
       "image":"https://i.pinimg.com/564x/18/b4/46/18b446c036cdcd00fa7e4790a25f5b3e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":109,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 109",
       "image":"https://i.pinimg.com/564x/9d/5b/62/9d5b622696a2494ff5c9a51dffda0ec5.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":110,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 110",
       "image":"https://i.pinimg.com/736x/d6/77/06/d67706f09419c1d6c72ea8d7e5e5f48b.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":111,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 111",
       "image":"https://i.pinimg.com/564x/61/be/65/61be652c7a41b9821d429f949f26a615.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":112,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 112",
       "image":"https://i.pinimg.com/736x/47/65/91/4765913f11cf8ef958ce64eb3144b5fd.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":113,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 113",
       "image":"https://i.pinimg.com/564x/5f/7c/6e/5f7c6e9990f900774b39caae6d113c39.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":114,
       "name_category": "SUPERMAN",
       "title":"SUPERMAN 114",
       "image":"https://i.pinimg.com/564x/fa/2c/15/fa2c159d683e3727b25afec60d35e153.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":115,
@@ -979,28 +979,28 @@
       "name_category": "THANOS",
       "title":"THANOS 122",
       "image":"https://i.pinimg.com/564x/5f/d1/01/5fd1010e3c853ab13d58c71c43f5da65.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":123,
       "name_category": "THANOS",
       "title":"THANOS 123",
       "image":"https://i.pinimg.com/736x/c8/50/d0/c850d021b6aca16702dcb62d7a3bb958.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":124,
       "name_category": "THANOS",
       "title":"THANOS 124",
       "image":"https://i.pinimg.com/564x/a3/1a/2e/a31a2ef1d7500a64222c6570520e098e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":125,
       "name_category": "THANOS",
       "title":"THANOS 125",
       "image":"https://i.pinimg.com/736x/8f/97/78/8f97788e6a4a403233386a81968628fe.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":126,
@@ -1028,28 +1028,28 @@
       "name_category": "THE FLASH",
       "title":"THE FLASH 129",
       "image":"https://i.pinimg.com/564x/aa/6f/ad/aa6fad687589b94f9e7af799d0402868.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":130,
       "name_category": "THE FLASH",
       "title":"THE FLASH 130",
       "image":"https://i.pinimg.com/564x/5e/b7/49/5eb74925f3f19c7321711d7d46de6737.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":131,
       "name_category": "THE FLASH",
       "title":"THE FLASH 131",
       "image":"https://i.pinimg.com/564x/3a/47/28/3a47288f96a3fa0a6146e58ad0d909ad.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":132,
       "name_category": "THE FLASH",
       "title":"THE FLASH 132",
       "image":"https://i.pinimg.com/564x/4e/34/69/4e3469edd9bf107b211c193ea426cb1e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":133,
@@ -1091,21 +1091,21 @@
       "name_category": "THOR",
       "title":"THOR 138",
       "image":"https://i.pinimg.com/736x/e8/17/0f/e8170f2f709b44fcdbe16e3511efc141.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":139,
       "name_category": "THOR",
       "title":"THOR 139",
       "image":"https://i.pinimg.com/564x/89/9a/5e/899a5e6fe640052f0006f94aa40da83e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":140,
       "name_category": "THOR",
       "title":"THOR 140",
       "image":"https://i.pinimg.com/736x/8e/38/cc/8e38cc12c35d5910ef6e782ecf741ad6.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":141,
@@ -1133,28 +1133,28 @@
       "name_category": "VENOM",
       "title":"VENOM 144",
       "image":"https://i.pinimg.com/564x/03/38/d6/0338d6d9cb7cbb4d81605ea7fceae3fc.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":145,
       "name_category": "VENOM",
       "title":"VENOM 145",
       "image":"https://i.pinimg.com/564x/3b/58/aa/3b58aa13d39f281570f5df5dbb50cb3b.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":146,
       "name_category": "VENOM",
       "title":"VENOM 146",
       "image":"https://i.pinimg.com/564x/10/a5/0b/10a50b8ebde25a1e6801be6e5d7f800f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":147,
       "name_category": "VENOM",
       "title":"VENOM 147",
       "image":"https://i.pinimg.com/564x/49/12/f1/4912f1567080172cac7182966d9410c2.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":148,
@@ -1189,14 +1189,14 @@
       "name_category": "WOLVERINE",
       "title":"WOLVERINE 152",
       "image":"https://i.pinimg.com/736x/ed/c0/4f/edc04f0298cd8c566c428d3c9505c58f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":153,
       "name_category": "WOLVERINE",
       "title":"WOLVERINE 153",
       "image":"https://i.pinimg.com/564x/e3/97/7b/e3977b1ba37d0c202b921e4021087447.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":154,
@@ -1217,56 +1217,56 @@
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 156",
       "image":"https://i.pinimg.com/564x/22/30/82/223082f2b5be6731545797b1da0c5b62.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":157,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 157",
       "image":"https://i.pinimg.com/736x/ed/e8/3b/ede83bac60811c97619ffa642dbad18a.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":158,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 158",
       "image":"https://i.pinimg.com/564x/d4/ee/b3/d4eeb3e4a526ba3d974bb6428290e803.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":159,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 159",
       "image":"https://i.pinimg.com/564x/be/63/ba/be63ba7e70d562fdcef1539c8b5c8744.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":160,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 160",
       "image":"https://i.pinimg.com/564x/23/9b/c3/239bc328dc7f24b77dd8b2ef8eba53cf.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":161,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 161",
       "image":"https://i.pinimg.com/564x/54/ad/17/54ad17f575539600ade30d65b684c0ce.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":162,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 162",
       "image":"https://i.pinimg.com/564x/86/85/0e/86850e57b2572d77d158bd415be4d56a.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":163,
       "name_category": "WONDER WOMAN",
       "title":"WONDER WOMAN 163",
       "image":"https://i.pinimg.com/564x/54/ad/17/54ad17f575539600ade30d65b684c0ce.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":164,
